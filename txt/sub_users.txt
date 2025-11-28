@@ -1,0 +1,7 @@
+games
+admin
+man
+daemon
+service
+msfadmin
+user
